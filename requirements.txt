@@ -1,1 +1,9 @@
+numpy
 
+matplotlib
+
+scikit-learn
+
+ipywidgets (for interactive demos)
+
+pytest (for testing)
